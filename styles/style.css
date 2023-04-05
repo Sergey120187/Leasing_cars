@@ -163,6 +163,13 @@
   margin-bottom: 40px;
 }
 
+/* Promo */
+
+.promo__title {
+  text-transform: uppercase;
+  margin-bottom: 20px;
+}
+
 /* Footer */
 
 .footer {
